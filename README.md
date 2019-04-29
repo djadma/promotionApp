@@ -54,6 +54,7 @@ How to run in IRB
 Run the below command in your terminal
 
 ```
+git clone https://github.com/djadma/promotionApp.git
 cd promotionApp
 bundle install # for install rspec
 
